@@ -143,6 +143,12 @@ main {
     padding: 0 20px;
 }
 
+#circle-cover-bg {
+    background: url("../images/reasons-image.webp") no-repeat top center/cover;
+    size: 90vw;
+    margin-bottom: 20px;
+}
+
 /* Footer */
 #social-networks {
     text-align: center;
