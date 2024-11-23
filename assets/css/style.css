@@ -145,7 +145,8 @@ main {
 
 #circle-cover-bg {
     background: url("../images/reasons-image.webp") no-repeat top center/cover;
-    size: 90vw;
+    height: 90vw;
+    width: 90vw;
     margin-bottom: 20px;
 }
 
